@@ -1,0 +1,43 @@
+.logo {
+    width: 75%;
+    /* margin-inline-end: 75%; */
+}
+
+.input-group {
+    margin-top: 20px;
+    margin-inline-end: 10px;
+}
+
+.navmenu {
+    background-color: #fff;
+    font-family: Poppins-Medium;
+    font-size: 17px;
+}
+
+.navmenu .nav-item .nav-link {
+    color: #000;
+}
+
+.navmenu .nav-item :hover {
+    color: #6c7ae0;
+}
+
+#my_account {
+    color: #f3c93e;
+    margin-inline-start: 100px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.myaccount {
+    font-size: 15px;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+
+#account {
+    color: #f3c93e;
+    margin-inline-start: 20px;
+    font-size: 20px;
+    padding: 10px;
+}

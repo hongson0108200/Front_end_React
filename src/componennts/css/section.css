@@ -1,0 +1,15 @@
+.card {
+    border: 0;
+    font-family: "Rubik", sans-serif;
+    padding: 10px;
+}
+
+.card h3 {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.card h2 {
+    margin-top: 30px;
+    margin-left: 30px;
+}

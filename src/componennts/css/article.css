@@ -1,0 +1,44 @@
+.text_product {
+    text-align: center;
+    font-family: "Lora", serif;
+    color: red;
+}
+
+.text_product h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body .product_rating a {
+    color: #feb955;
+}
+
+a {
+    text-decoration: none
+}
+
+.product_name h5 {
+    padding-top: 5px;
+    font-size: 15px;
+    color: black;
+}
+
+.product_name :hover {
+    color: #85aa1c;
+}
+
+.price_box {
+    font-size: 17px;
+    color: #85aa1c;
+}
+
+.abc {
+    /* background-color: #feb955; */
+    position: absolute;
+    padding-top: 70%;
+    margin-inline-start: 40%;
+}
