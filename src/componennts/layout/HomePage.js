@@ -3,6 +3,7 @@ import Nav from '../layout/Nav';
 import Section from '../layout/Section';
 import Article from '../layout/Article';
 import Footer from '../layout/Footer';
+import "../../"
 
 function HomePage() {
     return (
